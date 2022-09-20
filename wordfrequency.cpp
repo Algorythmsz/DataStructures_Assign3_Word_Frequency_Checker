@@ -5,15 +5,6 @@
 #include <algorithm>
 #include <string>
 
-/** 
- * Assignment 3 for COSE213 Data Structures
- *
- * Won-Ki Jeong (wkjeong@korea.ac.kr)
- *
- * 2022. 5. 1
- *
- */
-//2021100045 자유전공학부 컴퓨터학과 박승원
 WordFrequency::WordFrequency()
 {
     map = new WordFreqMap;

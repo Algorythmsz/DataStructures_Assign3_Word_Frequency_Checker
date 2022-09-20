@@ -3,15 +3,6 @@
 
 #include <iostream>
 
-/**
-  * Assignment 3 for COSE213 Data Structures
-  *
-  * Won-Ki Jeong (wkjeong@korea.ac.kr)
-  *
-  * 2022. 5. 1
-  *
-  */
-
 
 // Map element
 template <class KeyType, class ValType>

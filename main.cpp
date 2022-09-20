@@ -1,14 +1,5 @@
 #include "wordfrequency.h"
- 
- /** 
-  * Assignment 3 for COSE213 Data Structures
-  *
-  * Won-Ki Jeong (wkjeong@korea.ac.kr)
-  *
-  * 2022. 5. 1
-  *
-  */
- 
+
 using namespace std;
 
 int main()
